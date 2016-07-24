@@ -1,5 +1,13 @@
 {
   "StaticFiles": {
+    "Dependencies.json": {
+      "MD5": "e92a17842be52c85caaedb2169abd0c0",
+      "Download": "https://raw.github.com/finndev/PokeBuddy/master/Dependencies.json"
+    },
+    "Loader\\PokeBuddy.exe": {
+      "MD5": "0813769a8fa403f34a6c994da3f29c0c",
+      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Loader/PokeBuddy.exe"
+    },
     "Core\\PokeBuddy.Core.dll": {
       "MD5": "19d8ca28d61c12744aa22e7238aacfaf",
       "Download": "https://raw.github.com/finndev/PokeBuddy/master/Core/PokeBuddy.Core.dll"
@@ -44,10 +52,6 @@
       "MD5": "580244bc805220253a87196913eb3e5e",
       "Download": "https://raw.github.com/finndev/PokeBuddy/master/Dependencies/System.Windows.Interactivity.dll"
     },
-    "Dependencies.json": {
-      "MD5": "af92d6bf623c7b23d3cc5ba28d20d821",
-      "Download": "https://raw.github.com/finndev/PokeBuddy/master/Dependencies.json"
-    },
     "Niantic\\AC-Checksum.txt": {
       "MD5": "ce8b6655bbf2eb14623952b968018a41",
       "Download": "https://raw.github.com/finndev/PokeBuddy/master/Niantic/AC-Checksum.txt"
@@ -63,7 +67,7 @@
   },
   "Patches": {},
   "Loader": {
-    "MD5": "295267d076a0b54f3844c2e6b3cb3551",
+    "MD5": "9cb8a87cd262f2f6ceba21eb49e3ee24",
     "Download": "https://raw.github.com/finndev/PokeBuddy/master/Loader/PokeBuddy.exe"
   }
 }
